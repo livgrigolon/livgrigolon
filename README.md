@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lívia Grigolon</h1>
 <h3 align="center">A Data Science student from Brazil</h3>
 
-🔭 I’m currently working on learning Automation Testing with Karate framework
+🌱 I’m currently learning Python
 
-🌱 I’m currently learning Python and Java
-
-👯 I’m looking to collaborate on Open Source testing projects
+👯 I’m looking to collaborate on Open Source Data projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
