@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lívia Grigolon</h1>
 <h3 align="center">I'm a Systems Analysis and Development student with a passion for Data. Currently transitioning careers, I'm exploring the world of Data Engineering and Analytics, building skills in Python, SQL, and Big Data.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=livgrigolon&label=Profile%20views&color=0e75b6&style=flat" alt="livgrigolon" /> </p>
-
-- 📫 How to reach me **liviaghmello@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/liviagrigolon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liviagrigolon" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/liviagrigolon" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:liviaghmello@gmail.com">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30" width="40" style="filter: invert(31%) sepia(96%) saturate(749%) hue-rotate(349deg) brightness(91%) contrast(92%);" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
