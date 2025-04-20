@@ -11,14 +11,6 @@
 
 - 💬 Ask me about **data cleaning, ETL and Power Query**
 
-<h3 align="left">Projects</h3>
-
-**[7-days-of-data-science](https://github.com/livgrigolon/7-days-of-data-science)**  
-A 7-day Data Science challenge that explores end-to-end data workflows, from data cleaning and wrangling to analysis and visualization. This project focuses on applying Python, Pandas, and data visualization techniques to extract insights from real-world datasets.
-
-**[nlw-journey-ia](https://github.com/livgrigolon/nlw-journey-ia)**  
-An AI-driven project developed during the **Next Level Week (NLW)** bootcamp, focused on building intelligent applications using machine learning techniques. The project covers key aspects of AI development, including training models and deploying them for practical use cases.
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -38,6 +30,15 @@ An AI-driven project developed during the **Next Level Week (NLW)** bootcamp, fo
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
+
+
+<h3 align="left">Projects</h3>
+
+**[7-days-of-data-science](https://github.com/livgrigolon/7-days-of-data-science)**  
+A 7-day Data Science challenge that explores end-to-end data workflows, from data cleaning and wrangling to analysis and visualization. This project focuses on applying Python, Pandas, and data visualization techniques to extract insights from real-world datasets.
+
+**[nlw-journey-ia](https://github.com/livgrigolon/nlw-journey-ia)**  
+An AI-driven project developed during the **Next Level Week (NLW)** bootcamp, focused on building intelligent applications using machine learning techniques. The project covers key aspects of AI development, including training models and deploying them for practical use cases.
 
 ###
 
