@@ -1,5 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Lívia Grigolon</h1>
-<h3 align="center">I'm a Systems Analysis and Development student with a strong passion for Data Engineering and Analytics. I'm dedicated to mastering Python, SQL, and Big Data technologies as I transition into the world of data-driven solutions.</h3>
+<h1 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3EA400&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+L%C3%ADvia+Grigolon" alt="Typing SVG" /></a</h1>
+
+<h3 style="text-align: left;">I'm a Systems Analysis and Development student with a strong passion for Data Engineering and Analytics. I'm dedicated to mastering Python, SQL, and Big Data technologies as I transition into the world of data-driven solutions.</h3>
+
 
 - 🔭 I’m currently working on [7-days-of-data-science](https://github.com/livgrigolon/7-days-of-data-science)
 
