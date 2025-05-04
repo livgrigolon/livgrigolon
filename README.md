@@ -3,7 +3,7 @@
 <h3 style="text-align: left;">I'm a Systems Analysis and Development student with a strong passion for Data Engineering and Analytics. I'm dedicated to mastering Python, SQL, and Big Data technologies as I transition into the world of data-driven solutions.</h3>
 
 
-- 🔭 I’m currently working on [7-days-of-data-science](https://github.com/livgrigolon/7-days-of-data-science)
+- 🔭 I’m currently working on [curso-em-video-python-exercises](https://github.com/livgrigolon/curso-em-video-python-exercises)
 
 - 🌱 I’m currently learning **Python, SQL, NoSQL and PowerBI**
 
@@ -40,6 +40,9 @@ A 7-day Data Science challenge that explores end-to-end data workflows, from dat
 
 **[nlw-journey-ia](https://github.com/livgrigolon/nlw-journey-ia)**  
 An AI-driven project developed during the **Next Level Week (NLW)** bootcamp, focused on building intelligent applications using machine learning techniques. The project covers key aspects of AI development, including training models and deploying them for practical use cases.
+
+**[curso-em-video-python-exercises](https://github.com/livgrigolon/curso-em-video-python-exercises)**   
+A collection of 115 Python exercises from the Curso em Vídeo series by Gustavo Guanabara, organized by course modules (Mundo 1, 2 and 3). This project aims to strengthen programming logic and Python syntax through hands-on problem-solving and consistent practice. Each folder contains well-documented solutions and personal notes.
 
 <hr style="border: 1px solid #ccc;">
 
